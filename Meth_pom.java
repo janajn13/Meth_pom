@@ -62,9 +62,7 @@ public class Meth_pom extends com.bass.Base_Class{
     Alert a=driver.switchTo().alert();
 	  a.accept();
     clickOnElement(s.getLogout_btn());
-   Screenshot("C:\\Users\\JANA\\eclipse-workspace\\Amazon\\ScreenShot\\jn2.png");
    
-    
 	   
 	   
 	   
